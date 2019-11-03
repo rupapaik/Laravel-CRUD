@@ -1,5 +1,5 @@
-# laravel-blog
-This is my personal learning project. Anyone can use for there personal use.
+# Laravel-CRUD
+This is my personal learning project for laravel **CRUD** operation. Anyone can use for there personal use.
 After clone please import **schema/tutorial.sql** in your mysql with database name **"tutorial"**.
 Put all the files in 'htdocs'.
 Run composer for laravel library.
